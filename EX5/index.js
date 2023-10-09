@@ -19,4 +19,4 @@
 
 let media = (notaPesadaUm + notaPesadaDois + notaPesadaTres)/3;
 
-alert("A média é " +media);
+alert("A média é " + media);
